@@ -19,11 +19,13 @@
 | TCS3200 | 顏色感測器 |
 | PCA9685 | 伺服馬達 PWM 控制板 |
 | 步進馬達 TB6600 | 控制 X 軸滑軌前後移動 |
+| 六軸機械手臂 | 馬達控制抓取物件 |
 
 ## 成果展示
 
 
 
-- [展示影片連結]功能一(https://youtu.be/G8WawodzkJs)功能二(https://youtu.be/M52aFezsBK4)
+- [展示影片連結功能一](https://youtu.be/G8WawodzkJs)
+- [展示影片連結功能二](https://youtu.be/M52aFezsBK4)
 - [專題報告下載](https://drive.google.com/file/d/1__6PtWzh0T0ztAjbpPK73f6mYNrndXor/view?usp=sharing)
 - [專題海報下載](https://drive.google.com/file/d/1JzMXmr2Y9ytDjuiVh3vep23jVI9iC1ux/view?usp=sharing)
